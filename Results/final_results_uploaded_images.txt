@@ -1,0 +1,4 @@
+Model                     Pct Correct Not Dogs      Pct Correct Dogs          Pct Correct Breed         Pct Label Matches        
+resnet                    100.0                     100.0                     50.0                      50.0                     
+alexnet                   50.0                      100.0                     100.0                     50.0                     
+vgg                       100.0                     100.0                     100.0                     50.0                     

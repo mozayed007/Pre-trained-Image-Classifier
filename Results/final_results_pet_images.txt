@@ -1,0 +1,4 @@
+Model                     Pct Correct Not Dogs      Pct Correct Dogs          Pct Correct Breed         Pct Label Matches        
+resnet                    90.0                      100.0                     90.0                      82.5                     
+alexnet                   100.0                     100.0                     80.0                      75.0                     
+vgg                       100.0                     100.0                     93.33333333333333         87.5                     
