@@ -2,7 +2,7 @@
 # Dog Breeds Images Classifier
 
 This is a pre-trained dog breed image classifier. It uses different architectures like Resnet, Alexnet, and VGG for classification.
-
+The project is part of the AWS-sponsored Scholarship: AI Programming with Python Nanodegree on Udacity.
 ## Prerequisites
 
 Make sure you have Python installed on your system. You can download Python from [here](https://www.python.org/downloads/).
